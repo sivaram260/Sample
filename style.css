@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+
+text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    
+    }
+    a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    }
+    H1{
+        text-align: center;
+        font-size: 95px;
+        color: orange;
+    }
+    header{
+        background-image: url("https://th.bing.com/th/id/OIP.1RyjR-X-2al-MKvbePg2jwHaDH?pid=Api&rs=1");
+        background-repeat: no-repeat;
+        color: black;
+        background-size: cover;
+        padding: 200px;
+        }
+        section p, img{
+            padding: 10px;
+            }
+            .cabs{
+            color: black;
+            padding: 70px;
+            }
+            #Touristplacesnearpondicherry{
+                background-color: lightsalmon;
+                }
+            #Feedback{
+                background-color: lightpink;
+                }
+            #Contact{
+                background-color: lightskyblue;
+                }
+            
